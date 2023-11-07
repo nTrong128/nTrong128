@@ -26,6 +26,6 @@ I am completely passionate about backend development, graphs and also very inter
 
 
 ----
-Credit: [LeandraOliveiraS](https://github.com/vitris128)
+Credit: [Vitris128](https://github.com/vitris128)
 
 Last Edited on: 07/11/2023
