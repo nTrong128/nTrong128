@@ -7,7 +7,7 @@
 
 
 My name is **Le Nhat Trong**, I'm 20 years old and I'm a student of **Computer Science** at Can Tho University  in Vietnam.
-I am completely passionate about backend development, graphs and also very interested in data analysis. I love listening to music :notes:, watching anime, series and sharing it with my friends.
+I am completely passionate about backend development, graphics and also very interested in data science. I love listening to music :notes:, watching anime, series and sharing it with my friends.
 
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
