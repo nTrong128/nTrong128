@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lenhattrong128@gmail.com)
 
 
-My name is **Le Nhat Trong**, I'm 20 years old and I'm a student of **Computer Science** at Can Tho University  in Vietnam.
+My name is **Le Nhat Trong**, I'm 21 years old and I'm a student of **Computer Science** at Can Tho University  in Vietnam.
 I am completely passionate about backend development, graphics and also very interested in data science. I love listening to music :notes:, watching anime, series and sharing it with my friends.
 
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
@@ -32,4 +32,4 @@ I am completely passionate about backend development, graphics and also very int
 ----
 Credit: [Vitris128](https://github.com/ntrong128)
 
-Last Edited on: 14/12/2023
+Last Edited on: 09/6/2024
