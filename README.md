@@ -7,7 +7,7 @@
 
 
 My name is **Le Nhat Trong**, I'm 21 years old and I'm a student of **Computer Science** at Can Tho University  in Vietnam.
-I am completely passionate about backend development, graphics and also very interested in data science. I love listening to music :notes:, watching anime, series and sharing it with my friends.
+I am completely passionate about backend development, computer vision and also very interested in data science. I love listening to music :notes:, watching anime and sharing it with my friends.
 
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
@@ -17,9 +17,7 @@ I am completely passionate about backend development, graphics and also very int
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 
 - 💬 Ask me about programming in general, I am always <br> available to help and learn together.
 
@@ -29,6 +27,6 @@ I am completely passionate about backend development, graphics and also very int
 
 
 ----
-Credit: [Vitris128](https://github.com/ntrong128)
+Credit: [ntrong128](https://github.com/ntrong128)
 
-Last Edited on: 10/10/2024
+Last Edited on: 31/12/2024
